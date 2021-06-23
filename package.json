@@ -1,0 +1,14 @@
+{
+  "name": "lifegame",
+  "version": "1.0.0",
+  "description": "A game/task manager",
+  "main": "src/scripts/main.js",
+  "author": "Chase Trybula",
+  "license": "MIT",
+  "scripts": {
+      "start" : "electron ."
+  },
+  "devDependencies": {
+    "electron": "^13.1.3"
+  }
+}
